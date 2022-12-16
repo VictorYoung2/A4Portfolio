@@ -13,6 +13,9 @@ body {
 p{
 	padding: 15px;
 }
+h3{
+	padding:15px;
+}
 .header {
 	background: #E36F0B;
 	text-align: center;
@@ -33,9 +36,11 @@ p{
 }
 .content {
 	background: #F5A454;
+	
 	float: left;
 	width: 100%;
 	text-align: left;
+	
 }
 .footer {
 	background: #E3290B;
